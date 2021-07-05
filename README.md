@@ -1,6 +1,6 @@
 ## t-rex-runner
 
-Just stupid, nonfinished "mod". I change dino to human :D. o.o
+Just stupid, nonfinished "mod". I change dino to human :D. o.o change sprites only in 100% - just because.
 
 
 the trex runner game extracted from chrome offline err page.
